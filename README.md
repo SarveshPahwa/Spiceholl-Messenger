@@ -1,2 +1,5 @@
 # Spiceholl-Messenger
 This repository contains complete code for the Spiceholl Messenger
+Spiceholl chat messenger is a robust chat application developed using Python, designed to function as a versatile command line tool. This feature-rich messenger offers a variety of functionalities that enable users to connect with friends, engage in seamless conversations, update their personal details, manage their chat history, and even delete their account if desired. Additionally, it incorporates a unique account recovery feature, allowing users to regain access in case they forget their password.
+
+To ensure efficient data management and maintain data integrity, Spiceholl chat messenger utilizes SQL as its underlying database system. The Python code implementing the messenger incorporates various constraints to guarantee the consistency of stored data. While the initial iteration of the messenger employed binary files for data storage, subsequent iterations leveraged the power of SQL, resulting in enhanced functionality and improved data management capabilities.
